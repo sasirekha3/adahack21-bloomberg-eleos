@@ -1,8 +1,14 @@
 body {
-  margin: 0;
+  margin: 40px;
   padding: 0;
   font-family: sans-serif;
-  background-image: url(../public/stars-bg.png);
-  color: #F6C103;
+  /*background-image: url(./assets/eleos-bg.jpg);*/
+  background:  #eef9de;
+  color: #000000;
+  opacity: 0.8;
+}
+
+div.app-name {
+  font-size: 110px;
 }
 
